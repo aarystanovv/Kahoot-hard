@@ -1,0 +1,25 @@
+It controls the behavior of a program?
+method , class , object , void
+
+What is at the end of a line of code?
+; , > , "" , )
+
+A variable that holds a number?
+int , string , char , boolean
+
+Int a = 5, a > 3 . True or false__
+true
+
+A data type that deals with logical values?
+boolean , int , String , char
+
+A default value of the int__
+0 , 2 , 3 , 1
+
+Samyi TOP Universitet?
+SDU , KBTU , IITU , AstanaIT
+
+Abai poemasyn jazgan kim?
+Mukhtar Auezov , Saken Seifullin , Talgat Bigeldinov , Jenis Iskakov
+
+
